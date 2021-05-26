@@ -1,3 +1,3 @@
 # aperana
 Just another repository
-workig on building portfolio management tools
+// working on building portfolio management tools
